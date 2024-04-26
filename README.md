@@ -37,7 +37,7 @@ This Python script calculates Body Mass Index (BMI) based on weight and height i
 
 #### How to Use:
 ```bash
-python bmi_calculator.py
+python BMI_Calculator.py
 ```
 
 #### Example Output:
@@ -70,7 +70,7 @@ This Python script generates random passwords based on user preferences for pass
 
 #### How to Use:
 ```bash
-python password_generator.py
+python Simple_Password_Generator.py
 ```
 
 #### Example Output:
@@ -111,7 +111,7 @@ This Python script implements a basic client-server chat application using socke
 python chat_server.py
 
 # Start a client
-python chat_client.py
+python Chat_App.py
 ```
 
 #### Example Output:
@@ -150,7 +150,7 @@ This Python script allows users to fetch weather information for a specific loca
 
 #### How to Use:
 ```bash
-python weather_fetcher.py
+python Weather_App.py
 ```
 
 #### Example Output:
