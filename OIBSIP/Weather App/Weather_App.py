@@ -19,7 +19,7 @@ def display_weather_info(data):
 
 # Main function
 def main():
-    api_key = "hitpy"  # Replace with your OpenWeatherMap API key
+    api_key = "9761be57143a399184e0fc5992c60a2d"  # Replace with your OpenWeatherMap API key
     location = input("Enter city name or ZIP code: ")
     
     # Fetch weather data
